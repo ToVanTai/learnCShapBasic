@@ -1,0 +1,31 @@
+﻿<Window x:Class="formLogin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:formLogin"
+        mc:Ignorable="d"
+        Title="Trang Dang Nhap" Height="450" Width="800"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        >
+
+    <Grid>
+        <Label Content="Tai Khoan" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" Margin="30,65,0,0" VerticalAlignment="Top"/>
+        <Label Content="Mat Khau" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left" Margin="30,121,0,0" VerticalAlignment="Top"/>
+        <Label Content="Dang Ky" FontSize="28" FontWeight="Bold" HorizontalAlignment="Center"  VerticalAlignment="Top"/>
+        <TextBox Name="inputAccount" HorizontalAlignment="Left" Margin="237,65,0,0" FontSize="20" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="271" TextChanged="TextBox_TextChanged" Height="37"/>
+
+        <Button Content="Dang ky" FontSize="20" HorizontalAlignment="Left" Margin="237,178,0,0" VerticalAlignment="Top" Height="44" Width="97"/>
+
+        <Button Content="Dang nhap" FontSize="20" HorizontalAlignment="Left" Margin="412,178,0,0" VerticalAlignment="Top" Height="44" Width="97"/>
+
+        <TextBlock HorizontalAlignment="Left" Margin="232,238,0,0" VerticalAlignment="Top" Width="164">
+            <Hyperlink FontSize="20"  FontStyle="Italic">Quen mat khau?</Hyperlink>
+        </TextBlock>
+        <PasswordBox Name="inputPassword" PasswordChar="*" FontSize="20" HorizontalAlignment="Left" Margin="237,119,0,0" VerticalAlignment="Top" Height="39" Width="271"/>
+        <Button Name="btnReset" Content="Nhap lai" FontSize="20" Height="39" HorizontalAlignment="Left" Margin="618,102,0,0" VerticalAlignment="Top" Click="btnReset_Click"/>
+
+
+    </Grid>
+</Window>

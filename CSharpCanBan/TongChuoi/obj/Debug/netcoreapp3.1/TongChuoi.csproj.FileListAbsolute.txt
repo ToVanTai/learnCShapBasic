@@ -1,0 +1,14 @@
+D:\learn_cshap\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.exe
+D:\learn_cshap\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.deps.json
+D:\learn_cshap\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.runtimeconfig.json
+D:\learn_cshap\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.runtimeconfig.dev.json
+D:\learn_cshap\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.dll
+D:\learn_cshap\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.pdb
+D:\learn_cshap\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.AssemblyInfoInputs.cache
+D:\learn_cshap\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.AssemblyInfo.cs
+D:\learn_cshap\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.csproj.CoreCompileInputs.cache
+D:\learn_cshap\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.dll
+D:\learn_cshap\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.pdb
+D:\learn_cshap\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.genruntimeconfig.cache
+D:\learn_cshap\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.csproj.AssemblyReference.cache

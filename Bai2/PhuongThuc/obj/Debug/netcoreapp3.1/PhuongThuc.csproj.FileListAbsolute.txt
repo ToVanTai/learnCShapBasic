@@ -1,0 +1,14 @@
+D:\learn_cshap\Bai2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.exe
+D:\learn_cshap\Bai2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.deps.json
+D:\learn_cshap\Bai2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.runtimeconfig.json
+D:\learn_cshap\Bai2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.runtimeconfig.dev.json
+D:\learn_cshap\Bai2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.dll
+D:\learn_cshap\Bai2\PhuongThuc\bin\Debug\netcoreapp3.1\PhuongThuc.pdb
+D:\learn_cshap\Bai2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\Bai2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.AssemblyInfoInputs.cache
+D:\learn_cshap\Bai2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.AssemblyInfo.cs
+D:\learn_cshap\Bai2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.csproj.CoreCompileInputs.cache
+D:\learn_cshap\Bai2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.dll
+D:\learn_cshap\Bai2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.pdb
+D:\learn_cshap\Bai2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.genruntimeconfig.cache
+D:\learn_cshap\Bai2\PhuongThuc\obj\Debug\netcoreapp3.1\PhuongThuc.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\learn_cshap\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.exe
+D:\learn_cshap\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.deps.json
+D:\learn_cshap\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.runtimeconfig.json
+D:\learn_cshap\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.runtimeconfig.dev.json
+D:\learn_cshap\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.dll
+D:\learn_cshap\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.pdb
+D:\learn_cshap\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.AssemblyInfoInputs.cache
+D:\learn_cshap\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.AssemblyInfo.cs
+D:\learn_cshap\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.csproj.CoreCompileInputs.cache
+D:\learn_cshap\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.dll
+D:\learn_cshap\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.pdb
+D:\learn_cshap\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.genruntimeconfig.cache
+D:\learn_cshap\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.csproj.AssemblyReference.cache

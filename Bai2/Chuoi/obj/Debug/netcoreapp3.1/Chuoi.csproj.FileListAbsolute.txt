@@ -1,0 +1,14 @@
+D:\learn_cshap\Bai2\Chuoi\bin\Debug\netcoreapp3.1\Chuoi.exe
+D:\learn_cshap\Bai2\Chuoi\bin\Debug\netcoreapp3.1\Chuoi.deps.json
+D:\learn_cshap\Bai2\Chuoi\bin\Debug\netcoreapp3.1\Chuoi.runtimeconfig.json
+D:\learn_cshap\Bai2\Chuoi\bin\Debug\netcoreapp3.1\Chuoi.runtimeconfig.dev.json
+D:\learn_cshap\Bai2\Chuoi\bin\Debug\netcoreapp3.1\Chuoi.dll
+D:\learn_cshap\Bai2\Chuoi\bin\Debug\netcoreapp3.1\Chuoi.pdb
+D:\learn_cshap\Bai2\Chuoi\obj\Debug\netcoreapp3.1\Chuoi.csproj.AssemblyReference.cache
+D:\learn_cshap\Bai2\Chuoi\obj\Debug\netcoreapp3.1\Chuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\Bai2\Chuoi\obj\Debug\netcoreapp3.1\Chuoi.AssemblyInfoInputs.cache
+D:\learn_cshap\Bai2\Chuoi\obj\Debug\netcoreapp3.1\Chuoi.AssemblyInfo.cs
+D:\learn_cshap\Bai2\Chuoi\obj\Debug\netcoreapp3.1\Chuoi.csproj.CoreCompileInputs.cache
+D:\learn_cshap\Bai2\Chuoi\obj\Debug\netcoreapp3.1\Chuoi.dll
+D:\learn_cshap\Bai2\Chuoi\obj\Debug\netcoreapp3.1\Chuoi.pdb
+D:\learn_cshap\Bai2\Chuoi\obj\Debug\netcoreapp3.1\Chuoi.genruntimeconfig.cache

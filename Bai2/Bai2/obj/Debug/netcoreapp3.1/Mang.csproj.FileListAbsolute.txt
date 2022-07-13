@@ -1,0 +1,14 @@
+D:\learn_cshap\Bai2\Bai2\bin\Debug\netcoreapp3.1\Mang.exe
+D:\learn_cshap\Bai2\Bai2\bin\Debug\netcoreapp3.1\Mang.deps.json
+D:\learn_cshap\Bai2\Bai2\bin\Debug\netcoreapp3.1\Mang.runtimeconfig.json
+D:\learn_cshap\Bai2\Bai2\bin\Debug\netcoreapp3.1\Mang.runtimeconfig.dev.json
+D:\learn_cshap\Bai2\Bai2\bin\Debug\netcoreapp3.1\Mang.dll
+D:\learn_cshap\Bai2\Bai2\bin\Debug\netcoreapp3.1\Mang.pdb
+D:\learn_cshap\Bai2\Bai2\obj\Debug\netcoreapp3.1\Mang.csproj.AssemblyReference.cache
+D:\learn_cshap\Bai2\Bai2\obj\Debug\netcoreapp3.1\Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\Bai2\Bai2\obj\Debug\netcoreapp3.1\Mang.AssemblyInfoInputs.cache
+D:\learn_cshap\Bai2\Bai2\obj\Debug\netcoreapp3.1\Mang.AssemblyInfo.cs
+D:\learn_cshap\Bai2\Bai2\obj\Debug\netcoreapp3.1\Mang.csproj.CoreCompileInputs.cache
+D:\learn_cshap\Bai2\Bai2\obj\Debug\netcoreapp3.1\Mang.dll
+D:\learn_cshap\Bai2\Bai2\obj\Debug\netcoreapp3.1\Mang.pdb
+D:\learn_cshap\Bai2\Bai2\obj\Debug\netcoreapp3.1\Mang.genruntimeconfig.cache

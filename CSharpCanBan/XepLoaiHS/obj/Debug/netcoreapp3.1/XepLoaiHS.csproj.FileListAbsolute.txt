@@ -1,0 +1,14 @@
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\bin\Debug\netcoreapp3.1\XepLoaiHS.exe
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\bin\Debug\netcoreapp3.1\XepLoaiHS.deps.json
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\bin\Debug\netcoreapp3.1\XepLoaiHS.runtimeconfig.json
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\bin\Debug\netcoreapp3.1\XepLoaiHS.runtimeconfig.dev.json
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\bin\Debug\netcoreapp3.1\XepLoaiHS.dll
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\bin\Debug\netcoreapp3.1\XepLoaiHS.pdb
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\obj\Debug\netcoreapp3.1\XepLoaiHS.csproj.AssemblyReference.cache
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\obj\Debug\netcoreapp3.1\XepLoaiHS.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\obj\Debug\netcoreapp3.1\XepLoaiHS.AssemblyInfoInputs.cache
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\obj\Debug\netcoreapp3.1\XepLoaiHS.AssemblyInfo.cs
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\obj\Debug\netcoreapp3.1\XepLoaiHS.csproj.CoreCompileInputs.cache
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\obj\Debug\netcoreapp3.1\XepLoaiHS.dll
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\obj\Debug\netcoreapp3.1\XepLoaiHS.pdb
+D:\learn_cshap\CSharpCanBan\XepLoaiHS\obj\Debug\netcoreapp3.1\XepLoaiHS.genruntimeconfig.cache

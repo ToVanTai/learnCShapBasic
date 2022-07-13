@@ -1,0 +1,13 @@
+D:\learn_cshap\TrenLop\Bai2\Bai2\bin\Debug\netcoreapp3.1\HinhChuNhat.exe
+D:\learn_cshap\TrenLop\Bai2\Bai2\bin\Debug\netcoreapp3.1\HinhChuNhat.deps.json
+D:\learn_cshap\TrenLop\Bai2\Bai2\bin\Debug\netcoreapp3.1\HinhChuNhat.runtimeconfig.json
+D:\learn_cshap\TrenLop\Bai2\Bai2\bin\Debug\netcoreapp3.1\HinhChuNhat.runtimeconfig.dev.json
+D:\learn_cshap\TrenLop\Bai2\Bai2\bin\Debug\netcoreapp3.1\HinhChuNhat.dll
+D:\learn_cshap\TrenLop\Bai2\Bai2\bin\Debug\netcoreapp3.1\HinhChuNhat.pdb
+D:\learn_cshap\TrenLop\Bai2\Bai2\obj\Debug\netcoreapp3.1\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\TrenLop\Bai2\Bai2\obj\Debug\netcoreapp3.1\HinhChuNhat.AssemblyInfoInputs.cache
+D:\learn_cshap\TrenLop\Bai2\Bai2\obj\Debug\netcoreapp3.1\HinhChuNhat.AssemblyInfo.cs
+D:\learn_cshap\TrenLop\Bai2\Bai2\obj\Debug\netcoreapp3.1\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\learn_cshap\TrenLop\Bai2\Bai2\obj\Debug\netcoreapp3.1\HinhChuNhat.dll
+D:\learn_cshap\TrenLop\Bai2\Bai2\obj\Debug\netcoreapp3.1\HinhChuNhat.pdb
+D:\learn_cshap\TrenLop\Bai2\Bai2\obj\Debug\netcoreapp3.1\HinhChuNhat.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.exe
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.deps.json
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.runtimeconfig.json
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.runtimeconfig.dev.json
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.dll
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\bin\Debug\netcoreapp3.1\GiaiThua.pdb
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.csproj.AssemblyReference.cache
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.AssemblyInfoInputs.cache
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.AssemblyInfo.cs
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.csproj.CoreCompileInputs.cache
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.dll
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.pdb
+D:\learn_cshap\TrenLop\Bai2\GiaiThua\obj\Debug\netcoreapp3.1\GiaiThua.genruntimeconfig.cache

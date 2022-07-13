@@ -1,0 +1,14 @@
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.csproj.AssemblyReference.cache
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.AssemblyInfoInputs.cache
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.AssemblyInfo.cs
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.csproj.CoreCompileInputs.cache
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.exe
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.deps.json
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.runtimeconfig.json
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.runtimeconfig.dev.json
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.dll
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.pdb
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.dll
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.pdb
+D:\learn_cshap\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.genruntimeconfig.cache

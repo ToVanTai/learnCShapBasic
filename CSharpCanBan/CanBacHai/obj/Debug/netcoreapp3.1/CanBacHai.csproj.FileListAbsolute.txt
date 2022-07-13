@@ -1,0 +1,14 @@
+D:\learn_cshap\CSharpCanBan\CanBacHai\bin\Debug\netcoreapp3.1\CanBacHai.exe
+D:\learn_cshap\CSharpCanBan\CanBacHai\bin\Debug\netcoreapp3.1\CanBacHai.deps.json
+D:\learn_cshap\CSharpCanBan\CanBacHai\bin\Debug\netcoreapp3.1\CanBacHai.runtimeconfig.json
+D:\learn_cshap\CSharpCanBan\CanBacHai\bin\Debug\netcoreapp3.1\CanBacHai.runtimeconfig.dev.json
+D:\learn_cshap\CSharpCanBan\CanBacHai\bin\Debug\netcoreapp3.1\CanBacHai.dll
+D:\learn_cshap\CSharpCanBan\CanBacHai\bin\Debug\netcoreapp3.1\CanBacHai.pdb
+D:\learn_cshap\CSharpCanBan\CanBacHai\obj\Debug\netcoreapp3.1\CanBacHai.csproj.AssemblyReference.cache
+D:\learn_cshap\CSharpCanBan\CanBacHai\obj\Debug\netcoreapp3.1\CanBacHai.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\CSharpCanBan\CanBacHai\obj\Debug\netcoreapp3.1\CanBacHai.AssemblyInfoInputs.cache
+D:\learn_cshap\CSharpCanBan\CanBacHai\obj\Debug\netcoreapp3.1\CanBacHai.AssemblyInfo.cs
+D:\learn_cshap\CSharpCanBan\CanBacHai\obj\Debug\netcoreapp3.1\CanBacHai.csproj.CoreCompileInputs.cache
+D:\learn_cshap\CSharpCanBan\CanBacHai\obj\Debug\netcoreapp3.1\CanBacHai.dll
+D:\learn_cshap\CSharpCanBan\CanBacHai\obj\Debug\netcoreapp3.1\CanBacHai.pdb
+D:\learn_cshap\CSharpCanBan\CanBacHai\obj\Debug\netcoreapp3.1\CanBacHai.genruntimeconfig.cache

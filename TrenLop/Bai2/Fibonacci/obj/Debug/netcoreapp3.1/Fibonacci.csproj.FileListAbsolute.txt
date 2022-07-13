@@ -1,0 +1,13 @@
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+D:\learn_cshap\TrenLop\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache

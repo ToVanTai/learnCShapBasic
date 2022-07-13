@@ -1,0 +1,14 @@
+D:\learn_cshap\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.exe
+D:\learn_cshap\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.deps.json
+D:\learn_cshap\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.runtimeconfig.json
+D:\learn_cshap\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.runtimeconfig.dev.json
+D:\learn_cshap\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.dll
+D:\learn_cshap\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.pdb
+D:\learn_cshap\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.csproj.AssemblyReference.cache
+D:\learn_cshap\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn_cshap\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.AssemblyInfoInputs.cache
+D:\learn_cshap\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.AssemblyInfo.cs
+D:\learn_cshap\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.csproj.CoreCompileInputs.cache
+D:\learn_cshap\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.dll
+D:\learn_cshap\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.pdb
+D:\learn_cshap\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.genruntimeconfig.cache
